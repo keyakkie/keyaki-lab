@@ -19,14 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 #domain: keyakkie.github.io/keyaki-lab/
-title: keyaki lab
-email: a.keyaki@r.hit-u.ac.jp
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website of the Keyaki Laboratory, Graduate School of Social Data Science, Hitotsubashi University.
-baseurl: "keyakkie.github.io" # the subpath of your site, e.g. /blog
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "keyaki-lab" # the subpath of your site, e.g. /blog
 url: "https://keyakkie.github.io/keyaki-lab/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: keyakkie
-github_username:  keyakkie
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: minima
