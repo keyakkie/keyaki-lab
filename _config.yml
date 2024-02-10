@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: keyakkie.github.io/keyaki-lab/
 title: keyaki lab
 email: a.keyaki@r.hit-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
