@@ -28,7 +28,8 @@ twitter_username: keyakkie
 github_username:  keyakkie
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
