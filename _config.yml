@@ -29,9 +29,10 @@ github_username:  keyakkie
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-minimal
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
