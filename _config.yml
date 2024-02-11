@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: keyaki lab
+title: Keyaki Lab
 email: a.keyaki@r.hit-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the Keyaki Laboratory, Graduate School of Social Data Science, Hitotsubashi University.
@@ -33,6 +33,8 @@ remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
+lang: jp
 
 # Exclude from processing.
 # The following items will not be processed, by default.
