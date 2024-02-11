@@ -22,8 +22,8 @@ title: keyaki lab
 email: a.keyaki@r.hit-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the Keyaki Laboratory, Graduate School of Social Data Science, Hitotsubashi University.
-baseurl: "keyaki-lab" # the subpath of your site, e.g. /blog
-url: "https://keyakkie.github.io/keyaki-lab/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/keyaki-lab" # the subpath of your site, e.g. /blog
+url: "https://keyakkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keyakkie
 github_username:  keyakkie
 
@@ -31,8 +31,8 @@ github_username:  keyakkie
 #theme: minima
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
