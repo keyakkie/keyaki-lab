@@ -1,7 +1,7 @@
 - name: メンバー
-  link: /member/
+  link: /member
 - name: 配属を希望される方へ
-  link: /wish-to-be-assigned/
+  link: /wish-to-be-assigned
 #  dropdown: 
 #    - name: Page 2
 #      link: /page-2/
