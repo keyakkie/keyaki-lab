@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the Keyaki Laboratory, Graduate School of Social Data Science, Hitotsubashi University.
 baseurl: "/keyaki-lab" # the subpath of your site, e.g. /blog
 url: "https://keyakkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
 twitter_username: keyakkie
 github_username:  keyakkie
 

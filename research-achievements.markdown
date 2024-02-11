@@ -8,4 +8,4 @@ title: Keyaki Lab's Web Site
 subtitle: 一橋大学ソーシャル・データサイエンス研究科欅研究室
 #show_sidebar: true
 ---
-home
+achievements

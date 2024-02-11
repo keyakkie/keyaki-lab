@@ -2,6 +2,12 @@
   link: /member
 - name: 配属を希望される方へ
   link: /wish-to-be-assigned
+- name: 研究テーマ
+  link: /research-topic
+- name: 研究業績
+  link: /research-achievements
+- name: アクセス
+  link: /access
 #  dropdown: 
 #    - name: Page 2
 #      link: /page-2/
