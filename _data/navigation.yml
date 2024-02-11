@@ -1,13 +1,14 @@
 - name: メンバー
   link: /member/
-- name: 配属を希望される方へ
-  link: /wish-to-be-assigned/
 - name: 研究テーマ
   link: /research-topic/
-- name: 研究業績
+- name: 研究発表
   link: /research-achievements/
-- name: アクセス
-  link: /access/
+#  link: https://www.keyakkie.com/%E6%A5%AD%E7%B8%BE
+- name: 配属を希望される方へ
+  link: /assignment/
+#- name: アクセス
+#  link: /access/
 #  dropdown: 
 #    - name: Page 2
 #      link: /page-2/

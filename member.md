@@ -4,7 +4,12 @@
 
 #layout: home
 title: Keyaki Lab's Web Site
-subtitle: 一橋大学ソーシャル・データサイエンス研究科欅研究室
+subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅研究室
 #show_sidebar: true
 ---
-member
+## 教員
+- [欅 惇志](https://www.keyakkie.com/){:target="_blank"}（准教授）
+
+## 修士学生
+- 近藤 賢志 (M1)
+- 中島 秀太 (M1)
