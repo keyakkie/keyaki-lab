@@ -37,6 +37,7 @@ plugins:
 
 lang: jp
 fixed_navbar: top
+favicon: favicon.ico
 
 # Exclude from processing.
 # The following items will not be processed, by default.
