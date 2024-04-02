@@ -18,7 +18,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 
 ## 共同研究テーマ（学術）
 - SNS 情報を用いた社会課題分析（共同研究先：[筑波大学関研究室](https://cu.slis.tsukuba.ac.jp/index.html){:target="_blank"}）
-- 検索拡張生成 (RAG) に適切な検索モジュールの開発 ([NTCIR-17 Transfer](https://github.com/ntcirtransfer/transfer2/discussions/2){:target="_blank"})
+- 検索拡張生成 (RAG) に適切な検索モジュールの開発 ([NTCIR-18 Transfer](https://github.com/ntcirtransfer/transfer2/discussions/2){:target="_blank"})
 - 資源横断手法を用いた密ベクトル情報検索技術の開発 ([NTCIR-17 Transfer](https://github.com/ntcirtransfer/transfer1/discussions/2){:target="_blank"})
 
 ## 共同研究テーマ（企業）
