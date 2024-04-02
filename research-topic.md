@@ -16,9 +16,13 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 - 新聞データを用いたボラティリティ予測
 - 匿名性・プライバシを考慮したパーソナルデータ基盤の構成とデータ分析
 
-## 共同研究テーマ
+## 共同研究テーマ（学術）
 - SNS 情報を用いた社会課題分析（共同研究先：[筑波大学関研究室](https://cu.slis.tsukuba.ac.jp/index.html){:target="_blank"}）
+- 検索拡張生成 (RAG) に適切な検索モジュールの開発 ([NTCIR-17 Transfer](https://github.com/ntcirtransfer/transfer2/discussions/2){:target="_blank"})
 - 資源横断手法を用いた密ベクトル情報検索技術の開発 ([NTCIR-17 Transfer](https://github.com/ntcirtransfer/transfer1/discussions/2){:target="_blank"})
+
+## 共同研究テーマ（企業）
+- 車両走行データを活用した社会課題解決手法及びサービスの研究開発（株式会社野村総合研究所，兼松株式会社，株式会社データ・テック）
 
 ## 過去のテーマ
 - 構造化文書検索の高性能化（高精度化・高速化）
