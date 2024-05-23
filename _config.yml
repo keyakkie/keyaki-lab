@@ -30,7 +30,8 @@ github_username:  keyakkie
 
 # Build settings
 #theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
