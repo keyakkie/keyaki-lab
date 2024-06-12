@@ -32,7 +32,7 @@ __はい，積極的に受け入れを行っております！__ 是非是非，
 研究テーマのすり合わせや研究遂行に必要となる知識・技術について確認させて頂きますので， __出願期限2週間前__ を目安にご連絡ください．
 
 また，2025年度入学者向けの入試や募集要項，研究計画書様式については[こちら](https://www.sds.hit-u.ac.jp/graduate-admissions/){:target="_blank"}からご確認ください．
-2024年7月13日(土) 10:00-12:00 にソーシャル・データサイエンス研究科オープンキャンパス（Zoom 実施）も開催されます（[要事前予約](https://docs.google.com/forms/d/e/1FAIpQLSejW8TxcYU4DGjOnso8bz2am0l2XzrMUtfZ_WDC2AEbPYj4uA/viewform)）．
+2024年7月13日(土) 10:00-12:00 にソーシャル・データサイエンス研究科オープンキャンパス（Zoom 実施）も開催されます（[要事前予約](https://docs.google.com/forms/d/e/1FAIpQLSejW8TxcYU4DGjOnso8bz2am0l2XzrMUtfZ_WDC2AEbPYj4uA/viewform){:target="_blank"}）．
 
 ### Q. どのようなテーマの研究に取り組める?
 欅の専門である情報アクセス（情報検索，対話システム，情報推薦）全般や，関連分野（自然言語処理，データマイニング）のテーマに取り組んで頂くことが可能です．
