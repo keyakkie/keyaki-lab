@@ -19,6 +19,13 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 SDS や欅研究室に関する質問などがございましたら欅 (a.keyaki [at] r.hit-u.ac.jp) までご連絡ください．
 （最終更新：2024.6.12）
 
+# Table of Contents
+- [一橋大学ソーシャル・データサイエンス学部生の方へ](#section-1)
+- [一橋大学他学部生の方へ](#section-2)
+- [他大学の方へ](#section-3)
+
+## 一橋大学ソーシャル・データサイエンス学部生の方へ
+
 ## お知らせ：自然言語処理の基礎勉強会（2024年4月頃〜）
 
 同学部・研究科の[小町研究室](https://hit.komachi.live/){:target="_blank"}（小町先生のご専門：計算言語学，自然言語処理，人工知能）と連携させて頂いています（連携形態や研究室の違いなどは[小町先生のご説明](https://hit.komachi.live/prospective#h.umooylfmwblh){:target="_blank"}をご参照ください）．
