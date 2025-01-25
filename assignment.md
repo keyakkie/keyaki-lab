@@ -8,7 +8,7 @@ title: Keyaki Lab's Web Site
 subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅研究室
 #show_sidebar: true
 ---
-* TOC
+- Table of Content
 {:toc}
 
 ## ご挨拶
