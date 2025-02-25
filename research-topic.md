@@ -15,6 +15,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 - 事前学習済み言語モデルの再学習 (fine-tuning)
 - 大規模言語モデル（生成系 AI）
   - アノテーション
+  - 文脈内学習 (ICL)
   - 検索拡張生成 (RAG)
   - テキスト生成
 
@@ -41,7 +42,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 
 ### 共同研究テーマ（学術）
 - SNS 情報を用いた社会課題分析（共同研究先：[筑波大学関研究室](https://cu.slis.tsukuba.ac.jp/index.html){:target="_blank"}）
-- 企業レポート（ESG レポート）からの情報抽出（共同研究先：[筑波大学関研究室](https://cu.slis.tsukuba.ac.jp/index.html){:target="_blank"}）
+- ESG レポートからの情報抽出（共同研究先：[筑波大学関研究室](https://cu.slis.tsukuba.ac.jp/index.html){:target="_blank"}）
 - 検索拡張生成 (RAG) に適切な検索モジュールの開発 ([NTCIR-18 Transfer](https://github.com/ntcirtransfer/transfer2/discussions/2){:target="_blank"})
 
 ### 共同研究テーマ（企業）
