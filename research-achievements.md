@@ -19,12 +19,12 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 #### 論文誌（査読あり）
 - Ko Senoo, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Stance Prediction with a Relevance Attribute to Political Issues in Comparing the Opinions of Citizens and City Councilors'', International Journal on Digital Libraries (IJDL), Vol. 25, Iss: 1, 2024, https://doi.org/10.1007/s00799-024-00396-3. [[link]](https://link.springer.com/epdf/10.1007/s00799-024-00396-3?sharing_token=WqQ1-UpnhFJTuCDDvs5fMfe4RwlQNchNByi7wbcMAY5-ilQdfsaIQ6cVtDrcPWOLAKNwtl4hgc1EcJzvfKkria7tMCEYEm3zGNrudf9pz00vLsuj3ILmggGzzZqJmutAJYINx-t9Ji3swUPmI6S-m0YNsR5AyuzTxHi2anyT_aU%3D)
 
-### 国際会議・国際ワークショップ（査読あり）
+#### 国際会議・国際ワークショップ（査読あり）
 - Hideo Joho, Atsushi Keyaki, Yuuki Tachioka, and Shuhei Yamamoto: ``Building Test Collections for Japanese Dense Information Retrieval Technologies and Beyond'', proceedings of the First Workshop on Evaluation Methodologies, Testbeds and Community for Information Access Research (EMTCIR 2024), Tokyo, December, 2024.
 - Taisei Iwasaki, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Estimating Citizen Personality Traits Using Social Media Posts'', proceedings of the 26th International Conference on Asia-Pacific Digital Libraries (ICADL 2024), Malaysia, December, 2024.
 - Atsushi Keyaki and Ribeka Keyaki: ``Coarse-Tuning for Ad-hoc Document Retrieval Using Pre-trained Language Models'', proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp.3413–3421, Torino, May, 2024. 採択率 52% [[link]](https://aclanthology.org/2024.lrec-main.303.pdf)
 
-### 国内会議・研究会（査読なし）
+#### 国内会議・研究会（査読なし）
 - 岩﨑 大晟，関 洋平，柏野 和佳子，欅 惇志，神門 典子: ``都市別のソーシャルメディア投稿を利用した市民の性格特性分析'', 第16回データ工学と情報マネジメントに関するフォーラム (DEIM2024), T3-A-3-01, 2024. **学生プレゼンテーション賞受賞**
 
 #### その他
@@ -37,11 +37,11 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 #### 国際会議 (査読なし)
 - Hideo Joho, Atsushi Keyaki, and Yuki Oba: ``Overview of the NTCIR-17 Transfer Task'', The 17th NTCIR Conference (NTCIT-17), 2023. [公開先リンク](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/01-NTCIR17-OV-TRANSFER-JohoH.pdf)
 
-### 国内会議・研究会（査読なし）
+#### 国内会議・研究会（査読なし）
 - 欅 惇志，田中リベカ: ``大規模言語モデルを用いた情報検索のための coarse-tuning 手法の提案'', 言語処理学会第29回年次大会 (NLP2023), pp.193-198, 2023年3月.
 - 米丸 周吾，関 洋平，欅 惇志，柏野 和佳子，神門 典子: ``ツイートを利用した地域別の市民同士のつながりを評価する指標の提案 '', 第15回データ工学と情報マネジメントに関するフォーラム (DEIM2023), 5b-5-3, 2023.
 
-### その他
+#### その他
 - 欅 惇志, 欅 リベカ: ``生成系 AI のファクトチェックのための述語論理に基づく検索システムの構想'', 第18回 YANS シンポジウム, 2023.
 
 ### 2022年以前
