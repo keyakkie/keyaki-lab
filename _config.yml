@@ -24,14 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the Keyaki Laboratory, Graduate School of Social Data Science, Hitotsubashi University.
 baseurl: "/keyaki-lab" # the subpath of your site, e.g. /blog
 url: "https://keyakkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: pretty
+#permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
 twitter_username: keyakkie
 github_username:  keyakkie
 
 # Build settings
 #theme: minima
+theme: bulma-clean-theme
 #remote_theme: chrisrhymes/bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
