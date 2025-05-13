@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #layout: home
+layout: page
 title: Keyaki Lab's Web Site
 subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅研究室
 #show_sidebar: true
@@ -39,4 +40,4 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 
 ## 元メンバー
 - 近藤 賢志（修士課程，2023.4-2024.8）
-- [中島 秀太](/keyaki-lab/thesis/#y2024-nakajima)（修士課程，2023.4-2025.3）
+- [中島 秀太](/keyaki-lab/thesis/#ay2024-nakajima)（修士課程，2023.4-2025.3）
