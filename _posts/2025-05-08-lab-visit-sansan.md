@@ -2,14 +2,14 @@
 layout: post
 title: Keyaki Lab's Web Site
 subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅研究室
-posttitle: Sansan 株式会社の研究室訪問
+posttitle: Sansan 株式会社様の研究室訪問
 author: 欅 惇志
 date:   2025-05-08 00:00:00 +0900
 #categories: jekyll update
 ---
 ## Sansan 株式会社の研究室訪問
-2025/5/8 に <a href="https://jp.corp-sansan.com/" target="_blank" rel="noopener noreferrer">Sansan 株式会社</a>の高橋様，橋本様，保坂様に研究室を訪問いただき，
-Sansan 株式会社の会社概要や研究開発の事例，キャリアパス，プロダクト開発のサイクルなどについてご紹介いただきました．
+2025/5/8 に <a href="https://jp.corp-sansan.com/" target="_blank" rel="noopener noreferrer">Sansan 株式会社</a>様の高橋様，橋本様，保坂様に研究室を訪問いただき，
+会社概要や研究開発の事例，キャリアパス，プロダクト開発のサイクルなどについてご紹介いただきました．
 
 個人的に非常に興味深く感じたのはプロダクトの開発サイクル（特にどのような観点で新規機能を追加するのか）でした．<br />
 アカデミアにいるとなかなか触れる機会の限られるソフトウェア開発の現場について教えていただきました．
