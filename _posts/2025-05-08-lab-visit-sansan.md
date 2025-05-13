@@ -7,7 +7,7 @@ author: 欅 惇志
 date:   2025-05-08 00:00:00 +0900
 #categories: jekyll update
 ---
-## Sansan 株式会社の研究室訪問
+## Sansan 株式会社様の研究室訪問
 2025/5/8 に <a href="https://jp.corp-sansan.com/" target="_blank" rel="noopener noreferrer">Sansan 株式会社</a>様の高橋様，橋本様，保坂様に研究室を訪問いただき，
 会社概要や研究開発の事例，キャリアパス，プロダクト開発のサイクルなどについてご紹介いただきました．
 
