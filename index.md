@@ -23,7 +23,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
-- 修了生の[中島](/keyaki-lab/member/#member-ay2023-nakajima)さんの研究が国際会議経済・金融における計算・データサイエンスに関する国際会議 <a href="https://iaiai.org/conference/aai2025/conferences/cdef-2025/" target="_blank" rel="noopener noreferrer">CEDF2025</a> に論文が採択されました．(2025.5.20)
+- 修了生の[中島](/keyaki-lab/member/#member-ay2023-nakajima)さんの研究が経済・金融における計算・データサイエンスに関する国際会議 <a href="https://iaiai.org/conference/aai2025/conferences/cdef-2025/" target="_blank" rel="noopener noreferrer">CEDF2025</a> に論文が採択されました．(2025.5.20)
 - [新メンバー](/keyaki-lab/member)として M1 が 2 名，B3 が 4 名欅研究室に配属されました．(2025.4.1)
 - M2 の[中島](/keyaki-lab/member/#member-ay2023-nakajima)さんが <a href="https://www.anlp.jp/nlp2025/" target="_blank" rel="noopener noreferrer">NLP2025</a> にて研究発表を行いました．(2025.3.12)
 - M2 の[中島](/keyaki-lab/member/#member-ay2023-nakajima)さんが <a href="https://yans.anlp.jp/entry/yans2024program" target="_blank" rel="noopener noreferrer">YANS2024</a> にて研究発表を行いました．(2024.9.6)

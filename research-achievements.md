@@ -15,6 +15,9 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 - 西村 鷹和，欅 惇志，関 洋平: ``構成要素に注目した囲碁解説文の分類と生成'', 第17回データ工学と情報マネジメントに関するフォーラム (DEIM2025), 2025. **学生プレゼンテーション賞受賞**
 - 朱 博瑄，関 洋平，欅 惇志，柏野 和佳子，神門 典子: ``企業レポート中の ESG に関する公約の検証可能性の判別'', 第17回データ工学と情報マネジメントに関するフォーラム (DEIM2025), 2025.
 
+#### 国際会議・国際ワークショップ（査読あり）
+- Shuta Nakajima, Toshiaki Watanabe, Mamoru Komachi, and Atsushi Keyaki: ``Improving Explainability in Stock Return Prediction Using Stock Forum Texts with Independent Component Analysis'', proceedings of 3rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2025), 2025. (to appear)
+
 ### 2024 年
 #### 論文誌（査読あり）
 - Ko Senoo, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Stance Prediction with a Relevance Attribute to Political Issues in Comparing the Opinions of Citizens and City Councilors'', International Journal on Digital Libraries (IJDL), Vol. 25, Iss: 1, 2024, https://doi.org/10.1007/s00799-024-00396-3. [[link]](https://link.springer.com/epdf/10.1007/s00799-024-00396-3?sharing_token=WqQ1-UpnhFJTuCDDvs5fMfe4RwlQNchNByi7wbcMAY5-ilQdfsaIQ6cVtDrcPWOLAKNwtl4hgc1EcJzvfKkria7tMCEYEm3zGNrudf9pz00vLsuj3ILmggGzzZqJmutAJYINx-t9Ji3swUPmI6S-m0YNsR5AyuzTxHi2anyT_aU%3D){:target="_blank"}
