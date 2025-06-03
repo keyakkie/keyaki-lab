@@ -10,6 +10,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 ---
 ### 2025 年
 #### 国際会議・国際ワークショップ（査読あり）
+- Hiroaki Yamada, Yuya Ishihara, Fuchiyama Takao, Ryutaro Ohara, Atsushi Keyaki, Chikako Kanki, Kazuhiko Yamamoto, Mihoko Sumida: ``Argument Annotation in Japanese Employment Law Cases: Preliminary Results'', proceedings of the 12th Workshop on Argument Mining (ArgMining 2025), 2025. (to appear)
 - Shuta Nakajima, Toshiaki Watanabe, Mamoru Komachi, and Atsushi Keyaki: ``Improving Explainability in Stock Return Prediction Using Stock Forum Texts with Independent Component Analysis'', proceedings of 3rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2025), 2025. (to appear)
 
 #### 国内会議・研究会 (査読なし)
