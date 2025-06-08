@@ -39,7 +39,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 
 ### 2023 年
 #### 論文誌（査読あり）
-- 石田哲也，関洋平，欅 惇志，柏野和佳子，神門典子: ``都市を横断した市民意見抽出の評価'', 自然言語処理, 30 巻, 2 号, 2023. [pdf](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_586/_pdf/-char/ja){:target="_blank"}
+- 石田哲也，関洋平，欅 惇志，柏野和佳子，神門典子: ``都市を横断した市民意見抽出の評価'', 自然言語処理, 30 巻, 2 号, 2023. [[pdf]](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_586/_pdf/-char/ja){:target="_blank"}
 
 #### 国際会議 (査読なし)
 - Hideo Joho, Atsushi Keyaki, and Yuki Oba: ``Overview of the NTCIR-17 Transfer Task'', The 17th NTCIR Conference (NTCIT-17), 2023. [公開先リンク](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/01-NTCIR17-OV-TRANSFER-JohoH.pdf){:target="_blank"}
