@@ -28,7 +28,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 
 #### 国際会議・国際ワークショップ（査読あり）
 - Hideo Joho, Atsushi Keyaki, Yuuki Tachioka, and Shuhei Yamamoto: ``Building Test Collections for Japanese Dense Information Retrieval Technologies and Beyond'', joint proceedings of the SIGIR-AP 2024 workshops EMTCIR 2024 and UM-CIR 2024, Tokyo, December, 2024.
-- Taisei Iwasaki, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Estimating Citizen Personality Traits Using Social Media Posts'', proceedings of the 26th International Conference on Asia-Pacific Digital Libraries (ICADL 2024), Malaysia, December, 2024.
+- Taisei Iwasaki, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Estimating Citizen Personality Traits Using Social Media Posts'', proceedings of the 26th International Conference on Asia-Pacific Digital Libraries (ICADL 2024), pp.119-135, Malaysia, December, 2024.
 - Atsushi Keyaki and Ribeka Keyaki: ``Coarse-Tuning for Ad-hoc Document Retrieval Using Pre-trained Language Models'', proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp.3413–3421, Torino, May, 2024. 採択率 52% [[link](https://aclanthology.org/2024.lrec-main.303.pdf){:target="_blank"}]
 
 #### 国内会議・研究会（査読なし）
@@ -42,7 +42,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅�
 - 石田哲也，関洋平，欅 惇志，柏野和佳子，神門典子: ``都市を横断した市民意見抽出の評価'', 自然言語処理, 30 巻, 2 号, 2023. [[pdf](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_586/_pdf/-char/ja){:target="_blank"}]
 
 #### 国際会議 (査読なし)
-- Hideo Joho, Atsushi Keyaki, and Yuki Oba: ``Overview of the NTCIR-17 Transfer Task'', The 17th NTCIR Conference (NTCIT-17), 2023. [公開先リンク](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/01-NTCIR17-OV-TRANSFER-JohoH.pdf){:target="_blank"}
+- Hideo Joho, Atsushi Keyaki, and Yuki Oba: ``Overview of the NTCIR-17 Transfer Task'', The 17th NTCIR Conference (NTCIT-17), pp.325-329, 2023. [公開先リンク](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/01-NTCIR17-OV-TRANSFER-JohoH.pdf){:target="_blank"}
 
 #### 国内会議・研究会（査読なし）
 - 欅 惇志，田中リベカ: ``大規模言語モデルを用いた情報検索のための coarse-tuning 手法の提案'', 言語処理学会第29回年次大会 (NLP2023), pp.193-198, 2023年3月.
