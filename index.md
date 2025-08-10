@@ -11,7 +11,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 ---
 <!--<span style="font-size: 200%">-->
 ## 欅研究室サイトへようこそ
-[一橋大学 ソーシャル・データサイエンス研究科](https://www.sds.hit-u.ac.jp/){:target="_blank"}
+[一橋大学 ソーシャル・データサイエンス学部/研究科](https://www.sds.hit-u.ac.jp/){:target="_blank"}
 欅研究室では
 
 - __情報アクセス（情報検索，対話システム，情報推薦）課題__
