@@ -18,6 +18,6 @@ date:   2025-05-08 00:00:00 +0900
 参加した学生の皆さんからは，企業での研究開発の様子や社会人博士について，プロダクトマネージャーの役割など初めて聞く話が多く，今後のキャリアを考えるうえでも参考になったと大変好評でした．<br />
 改めて，この度はご訪問いただきましてどうもありがとうございました．
 
-<img src="/keyaki-lab/assets/images/2025-05-08-sansan-visit.jpg"
+<img src="/keyaki-lab/assets/images/post/2025-05-08-sansan-visit.jpg"
      alt="Sansan 株式会社の研究室訪問風景"
      style="float: left; width: 50%; margin: 0 1em 1em 0;">

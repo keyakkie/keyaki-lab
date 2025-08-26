@@ -16,10 +16,10 @@ date:   2025-03-18 00:00:00 +0900
 中島さんから「ソーシャル・データサイエンス研究科らしい研究に取り組めてよかった」と言ってもらえて，教員として嬉しい限りでした．<br />
 今後ますますの活躍を祈っています！
 
-<img src="/keyaki-lab/assets/images/thesis-cover-ay2025-nakajima.jpg"
+<img src="/keyaki-lab/assets/images/post/thesis-cover-ay2025-nakajima.jpg"
      alt="中島さんの修論の表紙"
      style="float: left; width: 25%; margin: 0 1em 1em 0;">
 
-<img src="/keyaki-lab/assets/images/2025-03-18-commencement-ceremony-ay2024.jpg"
+<img src="/keyaki-lab/assets/images/post/2025-03-18-commencement-ceremony-ay2024.jpg"
      alt="中島さんとの記念写真"
      style="float: left; width: 50%; margin: 0 1em 1em 0;">
