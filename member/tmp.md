@@ -25,7 +25,7 @@ shibu@kuni.co.jp
 ### [院生を想定] 学歴・経歴 or 学部時代の専攻（専門）
 小平大学 外国語学部 外国語学科 or ゆるキャラ言語学
 
-### 業績（オプション）
+### 業績
 - **◯Ichiro Shibusawa** and Reiko Arimori: ``Does Kuni-Nyan Prefer Sweet or Spicy?'', proceedings of the 2025 International Conference on Yuru-Chara (ICYC 2025), pp.9-22, Kunitachi, Sep, 2025.
 - **◯渋沢 一郎**，有森礼子: ``ソーシャルメディア分析を用いた「くにニャン」の食性調査'', 第3回 KNTC シンポジウム, 2024.
 
