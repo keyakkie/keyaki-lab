@@ -23,6 +23,8 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
+- <a href="https://yans.anlp.jp/entry/yans2025" target="_blank" rel="noopener noreferrer">YANS2025</a>にて B3 の[政野 美和](ay2025-masano)さんがスポンサー賞（ストックマーク株式会社賞），B3 の[早田 大紀](ay2025-hayata)さんがスポンサー賞（株式会社マネーフォワード賞）を受賞しました．(2025.9.19)
+- <a href="https://yans.anlp.jp/entry/yans2025" target="_blank" rel="noopener noreferrer">YANS2025</a>のハッカソンにて M2 の宍戸 直樹さんが SFT 部門優秀賞，B3 の[政野 美和](ay2025-masano)さんが SFT 部門 YANS 運営委員特別賞を受賞しました．(2025.9.19)
 - 東京科学大の[山田先生](https://h-yamada.jp/)との共同研究の成果が議論マイニングに関する国際ワークショップ<a href="https://argmining-org.github.io/2025/index.html" target="_blank" rel="noopener noreferrer">ArgMining 2025</a>に採択されました．(2025.6.2)
 - 修了生の[中島さん](/keyaki-lab/member/#member-ay2023-nakajima)の研究の成果が経済・金融における計算・データサイエンスに関する国際会議 <a href="https://iaiai.org/conference/aai2025/conferences/cdef-2025/" target="_blank" rel="noopener noreferrer">CDEF2025</a> に採択されました．(2025.5.20)
 - [新メンバー](/keyaki-lab/member)として M1 が 2 名，B3 が 4 名欅研究室に配属されました．(2025.4.1)
