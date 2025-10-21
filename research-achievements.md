@@ -10,6 +10,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 ---
 ### 2025 年
 #### 国際会議・国際ワークショップ（査読あり）
+- Yuya Ishihara, Atsushi Keyaki, Hiroaki Yamada, Ryutaro Ohara and Mihoko Sumida: ``RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms'', proceedings of the SIGIR-AP 2025 workshop BREV-RAG 2025, Xi'an, December, 2025. (to appear)
 - Hiroaki Yamada, Yuya Ishihara, Fuchiyama Takao, Ryutaro Ohara, Atsushi Keyaki, Chikako Kanki, Kazuhiko Yamamoto, Mihoko Sumida: ``Argument Annotation in Japanese Employment Law Cases: Preliminary Results'', proceedings of the 12th Workshop on Argument Mining (ArgMining 2025), 2025.
 - Shuta Nakajima, Toshiaki Watanabe, Mamoru Komachi, and Atsushi Keyaki: ``Improving Explainability in Stock Return Prediction Using Stock Forum Texts with Independent Component Analysis'', proceedings of 3rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2025), 2025.
 
