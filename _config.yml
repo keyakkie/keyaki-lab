@@ -33,7 +33,8 @@ github_username:  keyakkie
 #theme: minima
 #theme: bulma-clean-theme
 #remote_theme: chrisrhymes/bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+remote_theme: keyakkie/bulma-clean-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
