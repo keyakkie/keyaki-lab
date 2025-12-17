@@ -10,8 +10,8 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 ---
 ### 2025 年
 #### 国際会議・国際ワークショップ（査読あり）
-- Saneyuki Okabe, Taisei Enomoto, Mamoru Komachi, Atsushi Keyaki: ``Investigating the Impact of Japanese Names and Japanese Prompts on Social Bias in Hiring Decisions Using LLMs'', proceedings of the 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Macau and Online, December, 2025. (to appear)
-- Yuya Ishihara, Atsushi Keyaki, Hiroaki Yamada, Ryutaro Ohara and Mihoko Sumida: ``RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms'', proceedings of the SIGIR-AP 2025 workshop Beyond Relevance-based EValuation of RAG systems (BREV-RAG 2025), Xi'an, December, 2025. (to appear)
+- Saneyuki Okabe, Taisei Enomoto, Mamoru Komachi, Atsushi Keyaki: ``Investigating the Impact of Japanese Names and Japanese Prompts on Social Bias in Hiring Decisions Using LLMs'', proceedings of the 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Macau and Online, December, 2025.
+- Yuya Ishihara, Atsushi Keyaki, Hiroaki Yamada, Ryutaro Ohara and Mihoko Sumida: ``RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms'', proceedings of the SIGIR-AP 2025 workshop Beyond Relevance-based EValuation of RAG systems (BREV-RAG 2025), Xi'an, December, 2025.
 - Hiroaki Yamada, Yuya Ishihara, Fuchiyama Takao, Ryutaro Ohara, Atsushi Keyaki, Chikako Kanki, Kazuhiko Yamamoto, Mihoko Sumida: ``Argument Annotation in Japanese Employment Law Cases: Preliminary Results'', proceedings of the 12th Workshop on Argument Mining (ArgMining 2025), 2025.
 - Shuta Nakajima, Toshiaki Watanabe, Mamoru Komachi, and Atsushi Keyaki: ``Improving Explainability in Stock Return Prediction Using Stock Forum Texts with Independent Component Analysis'', proceedings of 3rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2025), 2025.
 
@@ -19,6 +19,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - Hideo Joho, Atsushi Keyaki, Yuuki Tachioka and Shuhei Yamamoto: ``Overview of the NTCIR-18 Transfer-2 Task'', proceedings of the 18th NTCIR Conference (NTCIT-18), 2025.
 
 #### 国内会議・研究会 (査読なし)
+- 田中 日加吏，欅 惇志，小町 守: ``日本語文書要約タスクにおけるHallucination 検出手法の評価用データセットの構築'', 第266回自然言語処理研究発表会, 2025.
 - 岡部 真幸，榎本 大晟，小町 守，欅 惇志: ``LLM を用いた採用決定において日本人名及び日本語プロンプトが社会的バイアスに与える影響の調査'', 第265回自然言語処理研究発表会, 2025. **<span style="color:red;">若手奨励賞受賞</span>**
 - 政野 美和，欅 リベカ，欅 惇志，清丸 寛一，中山 功太，堀尾 海斗，源 怜維，橘 秀幸，河原 大輔: ``LLMの生成テキストの真偽検証のための日本語言説分解データセットの構築'', 第265回 自然言語処理研究発表会, 2025.
 - 岩崎 大晟，欅 惇志，稲見 昌彦，平木 剛史，関 洋平: ``ユーザ体験を反映した対話エージェントによるメタバースのワールドの発見支援'', WebDB夏のワークショップ2025, 2025.
