@@ -18,7 +18,6 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - 政野 美和，清丸 寛一，欅 惇志，堀尾 海斗，源 怜維，欅 リベカ，中山 功太，橘 秀幸，河原 大輔: ``LLMの生成テキストの真偽検証のための日本語真偽判定データセットの構築'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 - 清丸 寛一，出口 祥之，政野 美和，源 怜維，堀尾 海斗，欅 惇志，中山 功太，橘 秀幸，欅 リベカ，河原 大輔: ``LLM-jp FactCheck：学習コーパスに照らした真偽検証によるモデル応答の分析'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 
-#### 国際会議・国際ワークショップ（査読あり）
 ### 2025 年
 #### 国際会議・国際ワークショップ（査読あり）
 - Saneyuki Okabe, Taisei Enomoto, Mamoru Komachi, Atsushi Keyaki: ``Investigating the Impact of Japanese Names and Japanese Prompts on Social Bias in Hiring Decisions Using LLMs'', proceedings of the 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Macau and Online, December, 2025.
