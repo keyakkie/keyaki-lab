@@ -9,6 +9,9 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #show_sidebar: true
 ---
 ### 2026 年
+#### 国際会議・国際ワークショップ（査読なし）
+- Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), 2026.
+
 #### 国内会議・研究会 (査読なし)
 - 岡部 真幸，榎本 大晟，小町 守，欅 惇志: ``採用決定タスクを用いたLLMの年齢バイアス検出'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 - 宍戸 直樹，渡部 敏明，吉田 光男，欅 惇志: ``街角コメントは経済変動を予測するか？- 埋め込み表現を活用したアプローチの提案とその応用 -'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
