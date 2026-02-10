@@ -9,7 +9,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #show_sidebar: true
 ---
 ### 2026 年
-#### 国際会議・国際ワークショップ（査読なし）
+#### 国際会議・国際ワークショップ（査読あり）
 - Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), 2026.
 
 #### 国内会議・研究会 (査読なし)
