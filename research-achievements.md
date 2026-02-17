@@ -14,6 +14,8 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), 2026.
 
 #### 国内会議・研究会 (査読なし)
+- 引野 晴貴，解良 智紀，Kristiina Jokinen，Sven Kirsch，陳 重吉，欅 惇志: ``事前に定義した複雑な学習シナリオの遵守を実現する教育用対話システムのマルチエージェント設計の提案'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026.
+- 春名 恵吏也，宍戸 直樹，欅 惇志: ``経済ドメインにおける 3 値センチメントに基づく埋め込みモデルの検討'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026.
 - 岡部 真幸，榎本 大晟，小町 守，欅 惇志: ``採用決定タスクを用いたLLMの年齢バイアス検出'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 - 宍戸 直樹，渡部 敏明，吉田 光男，欅 惇志: ``街角コメントは経済変動を予測するか？- 埋め込み表現を活用したアプローチの提案とその応用 -'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 - 解良 智紀，関 洋平，中尾 悠利子，高村 大也，欅 惇志: ``SASB スタンダードに準拠したコンプライアンスチェックのための ESG 日本語データセット構築'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
