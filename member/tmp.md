@@ -10,6 +10,9 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #show_sidebar: true
 ---
 <!--<span style="font-size: 200%">-->
+
+ここに追記
+
 ### 氏名
 渋沢 一郎
 
