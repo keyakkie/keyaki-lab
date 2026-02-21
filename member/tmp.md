@@ -29,3 +29,5 @@ shibu@kuni.ac.jp
 - **◯Ichiro Shibusawa** and Reiko Arimori: ``Does Kuni-Nyan Prefer Sweet or Spicy?'', proceedings of the 2025 International Conference on Yuru-Chara (ICYC 2025), pp.9-22, Kunitachi, Sep, 2025.
 - **◯渋沢 一郎**，有森礼子: ``ソーシャルメディア分析を用いた「くにニャン」の食性調査'', 第3回 KNTC シンポジウム, 2024.
 
+test
+
