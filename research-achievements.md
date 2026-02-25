@@ -10,6 +10,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 ---
 ### 2026 年
 #### 国際会議・国際ワークショップ（査読あり）
+- Tomoki Kera, Yohei Seki, Yuriko Nakao, Hiroya Takamura, and Atsushi Keyaki: ``Analysis of LLM-Based Annotation for ESG Compliance Checking'', proceedings of the 1st Workshop on Information Retrieval for Accountability and Integrity (IRAI 2026), co-located with the European Conference on Information Retrieval (ECIR 2026), 2026.
 - Miwa Masano, Ribeka Keyaki, Atsushi Keyaki, Rei Minamoto, Kaito Horio, Hirokazu Kiyomaru, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Claim Decomposition Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the 15th biennial Language Resources and Evaluation Conference (LREC 2026), 2026.
 - Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), 2026.
 

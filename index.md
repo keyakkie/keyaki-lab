@@ -23,6 +23,8 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
+- Tomoki Kera, Yohei Seki, Yuriko Nakao, Hiroya Takamura, and Atsushi Keyaki: ``Analysis of LLM-Based Annotation for ESG Compliance Checking'', proceedings of the 1st Workshop on Information Retrieval for Accountability and Integrity (IRAI 2026), co-located with the European Conference on Information Retrieval (ECIR 2026), 2026.
+- M1 の[解良 智紀](/keyaki-lab/member/ay2025-kera){:target="_blank"} さんの研究の成果が説明責任と誠実性のための情報検索に関する国際ワークショップ [IRAI 2026](https://nlpfin.github.io/sites/ECIR2026.html){:target="_blank"}に採択されました．(2026.2.24)
 - B3 の[政野 美和](/keyaki-lab/member/ay2025-masano){:target="_blank"} さんの研究の成果が自然言語処理分野の国際会議 [LREC 2026](https://lrec2026.info/){:target="_blank"}に採択されました．(2026.2.13)
 - 一橋大学大学院ソーシャル・データサイエンス研究科小町研究室 M2 の[田中さん](https://sites.google.com/komachi.live/hikari-tanaka/%E3%83%9B%E3%83%BC%E3%83%A0){:target="_blank"}らとの共同研究の成果が自然言語処理分野の国際ワークショップ [EACL 2026 SRW](https://2026.eacl.org/calls/srw/){:target="_blank"} に採択されました．(2026.2.3)
 - M2 の[岡部 真幸](/keyaki-lab/member/ay2024-okabe){:target="_blank"} さんの研究の成果が計算社会科学に関する国際ワークショップ [ABCSS 2025](https://css-japan.com/en/abcss2025/){:target="_blank"}に採択されました．(2025.11.4)
